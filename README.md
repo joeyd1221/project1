@@ -1,2 +1,2 @@
-# project1
-CSE_232_project1
+# project2
+CSE_232_project2
